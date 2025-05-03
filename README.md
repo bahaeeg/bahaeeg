@@ -1,7 +1,7 @@
 ## Hi there, I'm Bahae Eddine 👋
  
 - 👨‍💻 Full Stack Web Developer — Front-end & Back-end
-- 🎓 Computer Systems Engineering Student @ SUPMTI
+- 🎓 Computer Systems Engineering Student @SUPMTI Rabat
 - 🌐 I build clean, responsive, and dynamic web apps
 - 🚀 Passionate about learning, coding, and problem-solving
 - 📚 Always exploring new tech and improving my skills
